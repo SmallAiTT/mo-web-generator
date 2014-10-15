@@ -1,0 +1,33 @@
+#div-content {
+    padding: 0px 0px 0px 5px;
+}
+#div-menu .easyui-accordion h4{
+    color:#0099FF;
+    cursor:pointer;
+}
+.table-show {
+    width:100%;
+    background-color: #b9d8f3;
+}
+.table-show tr{
+    color: #0076C8; background-color: #F4FAFF;
+}
+.table-show tr .td-left{
+    width: 150px;
+    text-align: right;
+}
+.table-show tr .td-right{
+    width: 500px;
+}
+.table-show tr td div{
+    word-break: break-all ;
+}
+
+ul.ul-list {
+    width: 100%;
+}
+ul.ul-list li{
+    float: left;
+    width: 24%;
+    list-style-type:none;
+}
